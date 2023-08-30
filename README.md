@@ -1,2 +1,2 @@
 # first_github
-first
+##learning github from zero web school
